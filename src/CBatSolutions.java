@@ -1,16 +1,14 @@
-/**
- * Created by sbabba on 9/7/16.
- */
 
 /**
+ * Created by jafoole on 9/7/16.
  *  /\     /\      __        _____              __                /\      /\
  * \ \    \ \     |__|____ _/ ____\____   ____ |  |   ____       / /     / /
  * \ \    \ \     |  \__  \\   __\/  _ \ /  _ \|  | _/ __ \     / /     / /
  * \ \    \ \     |  |/ __ \|  | (  <_> |  <_> )  |_\  ___/    / /     / /
  * \ \    \ \ /\__|  (____  /__|  \____/ \____/|____/\___  >  / /     / /
  * \/     \/  \______|    \/                             \/   \/      \/
+ *
  */
-
 
 public class CBatSolutions {
 
@@ -33,7 +31,7 @@ public class CBatSolutions {
 
     // Return an int array length 3 containing the first 3 digits of pi, (3, 1, 4).
     public int[] makePi() {
-        
+
         int[] pi = {3, 1, 4};
         return pi;
 
